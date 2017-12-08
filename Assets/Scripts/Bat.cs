@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Bat : MonoBehaviour {
-
+	//handle bat stuff
 	public bool hasBallbeenHit;
 	public Vector3 hitForce;
 	public float factor;
